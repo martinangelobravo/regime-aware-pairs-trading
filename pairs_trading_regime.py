@@ -668,3 +668,4 @@ if __name__ == "__main__":
     else:
         print("\n⚠️  No cointegrated pairs found to plot.")
         print("This is normal - try different pairs or date ranges!")
+ 
